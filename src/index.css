@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: YakuHanMPs, "Noto Serif", "Noto Serif JP", serif;
+}
+
+html {
+  @apply bg-black text-white;
+}
+
+html, body, #app {
+  @apply size-full;
+}
