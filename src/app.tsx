@@ -48,7 +48,7 @@ export const App: FC = () => {
         </div>
 
         <a
-          href="https://github.com/GalvinGao"
+          href="https://github.com/GalvinGao/kowaretasekaitoutaenaimiku.com"
           target="_blank"
           class="size-8 rounded-xl hover:bg-neutral-500/70 active:bg-neutral-500/90 transition-all backdrop-blur-xl hover:border-neutral-500/90 flex items-center justify-center shrink-0 text-white/80"
         >
